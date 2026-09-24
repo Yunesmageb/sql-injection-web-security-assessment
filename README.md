@@ -104,7 +104,6 @@ Security testing should only be performed against systems for which explicit aut
 
 # Full Report
 
-## Full Report
 
 The complete technical report is available here:
 
