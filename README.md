@@ -84,9 +84,7 @@ Sensitive information has been redacted from the published version of this proje
 This includes:
 
 - Personal information
-- Usernames and account identifiers
 - IP addresses
-- Passwords or password-related secrets
 - Target-identifying information
 - Other information that could facilitate access to the assessed system
 
