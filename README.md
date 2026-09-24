@@ -99,6 +99,17 @@ Security testing should only be performed against systems for which explicit aut
 - OWASP SQL Injection Prevention Cheat Sheet
 - OWASP Query Parameterization Cheat Sheet
 
+
+---
+
+# Full Report
+
+## Full Report
+
+The complete technical report is available here:
+
+📄 [SQL Injection Web Security Assessment Report](./report/sql-injection-web-security-assessment.pdf)
+
 ## Author
 
 Yunes Mageb
